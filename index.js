@@ -15,14 +15,17 @@ function johnLennonFacts(f){
   while (i<f.length){
     var fact = f[i]+"!!!";
     facts.push(fact);
-    i++
+    i++;
   }
   return facts;
 }
 
 function iLoveTheBeatles(i){
   var a = [];
+  var love = "I love the Beatles!";
   do {
-    
+    a.push(love);
+    i++;
   }
+  while(i<15)
 }
