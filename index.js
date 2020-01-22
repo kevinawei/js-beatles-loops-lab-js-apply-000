@@ -1,8 +1,8 @@
 // add solution here
 function theBeatlesPlay(x, y){
   var beatles = [];
-  for ( int i = 0; i<x.length(); i++){
-    
+  for ( i = 0; i<x.length(); i++){
+    var a = x
   }
   
 }
