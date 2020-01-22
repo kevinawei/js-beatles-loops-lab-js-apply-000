@@ -10,5 +10,8 @@ function theBeatlesPlay(x, y){
 }
 
 function johnLennonFacts(f){
-  
+  var i = 0;
+  while (i<f.length){
+    
+  }
 }
