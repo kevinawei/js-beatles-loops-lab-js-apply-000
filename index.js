@@ -2,7 +2,8 @@
 function theBeatlesPlay(x, y){
   var beatles = [];
   for ( i = 0; i<x.length(); i++){
-    var a = x
+    var a = x[i] + " plays "+ y[i];
+    beatles.add(a);
   }
   
 }
