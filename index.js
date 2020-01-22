@@ -27,5 +27,5 @@ function iLoveTheBeatles(i){
     a.push(love);
     i++;
   }
-  while(i<15)
+  while(i<15);
 }
