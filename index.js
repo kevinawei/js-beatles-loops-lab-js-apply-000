@@ -5,5 +5,6 @@ function theBeatlesPlay(x, y){
     var a = x[i] + " plays "+ y[i];
     beatles.add(a);
   }
+  return beatles;
   
 }
