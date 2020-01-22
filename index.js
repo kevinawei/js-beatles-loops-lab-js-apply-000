@@ -1,4 +1,4 @@
 // add solution here
-function theBeatlesPlay(string){
+function theBeatlesPlay(String[], String[]){
   
 }
