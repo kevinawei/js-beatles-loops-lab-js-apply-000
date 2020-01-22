@@ -8,3 +8,7 @@ function theBeatlesPlay(x, y){
   return beatles;
   
 }
+
+function johnLennonFacts(f){
+  
+}
